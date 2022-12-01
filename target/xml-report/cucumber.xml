@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="47.079">
+    <testcase classname="magento market" name="customer_purchase_product" time="46.638">
+        <system-out>
+            <![CDATA[Given Navigate to the home page.............................................passed
+And user enters existing email as "raya@gmail.com" and  password "raya@gmail.com12".passed
+When customer goes to women section select tees and click...................passed
+Then select Gwyn Tee and click medium size and green color..................passed
+And hover over and click Add to cart........................................passed
+And click the number next to cart symbol....................................passed
+And click on qty box and change the number and click update.................passed
+And customer click proceed button and verifies address......................passed
+When customer return previous page and click on view edit...................passed
+Then verify discount applied................................................passed
+And change the quantity and click Update....................................passed
+And customer return women department page...................................passed
+And choose the item and add to the basket...................................passed
+And goes to the fitness page and select the item............................passed
+And checks the cart and verifies total amount...............................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
