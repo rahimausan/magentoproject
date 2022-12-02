@@ -154,3 +154,4 @@ public class MagentoStepDefs {
         ReusableMethods.getScreenshot("updateButton");
     }
 }
+// All the steps passed
